@@ -5,8 +5,7 @@ Custom VDM made in Python by Me and Others
 This may require kernel-level operations and such, this hasn't been tested properly and is prob broken
 
 # Todo
-> Fix this entire thing and rewrite in c++
- Rewrite into a base instead of full implementation
+> Fix this entire thing and rewrite in c++ and rewrite into a base instead of full implementation
 
 
 # Credits
